@@ -7,6 +7,7 @@ SEAL 911 is a project designed to give users, developers, and even other securit
 Given the high trust required for this project to function, membership is available on an invite-only basis. Typically, at least one existing member will vouch for the new member. Commercial organizations are limited to a maximum of two members.
 
 ## Members
+
 The current list of members is available below, for transparency purposes.
 
 - 0xc0ffeebabe
@@ -45,3 +46,7 @@ The current list of members is available below, for transparency purposes.
 - Ohm (Wallet Guard)
 - FrankResearcher (Wintermute)
 - Storm0x (Yearn)
+
+## SEAL 911 Code of Conduct
+
+See [here](./CODE_OF_CONDUCT.md).
