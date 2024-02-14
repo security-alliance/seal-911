@@ -15,6 +15,7 @@ The current list of members is available below, for transparency purposes.
 - pcaversaccio
 - ZachXBT
 - Jonathan Claudius (asymmetric research)
+- Fabio (Blowfish)
 - Josh (CF Investigators)
 - Brian Pak (ChainLight)
 - Nikita (ChainPatrol)
@@ -37,7 +38,6 @@ The current list of members is available below, for transparency purposes.
 - DanielVF (Origin Protocol)
 - NotDeGhost (OtterSec)
 - samczsun (Paradigm)
-- Fabio (Phantom)
 - fun (ScamSniffer)
 - Blue (SlowMist)
 - Oren Fine (SphereX)
