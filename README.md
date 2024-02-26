@@ -47,6 +47,7 @@ The current list of members is available below, for transparency purposes.
 - FrankResearcher (Wintermute)
 - Storm0x (Yearn)
 - Pablo Sabbatella (Blockfence)
+- Sipan V'artagnan (Hexens)
 
 ## SEAL 911 Code of Conduct
 
