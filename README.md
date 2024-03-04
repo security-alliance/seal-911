@@ -14,13 +14,15 @@ The current list of members is available below, for transparency purposes.
 - Iamdeadlyz
 - pcaversaccio
 - ZachXBT
-- Jonathan Claudius (asymmetric research)
+- Jonathan Claudius (Asymmetric Research)
 - Fabio (Blowfish)
 - Josh (CF Investigators)
 - Brian Pak (ChainLight)
+- setuid0 (ChainLight)
 - Nikita (ChainPatrol)
 - Umar (ChainPatrol)
 - Conor (Coinbase)
+- Miguel (Tracelon)
 - tayvano (ConsenSys)
 - Yannis Bollanos (Dedaub)
 - Yannis Smaragdakis (Dedaub)
@@ -48,6 +50,11 @@ The current list of members is available below, for transparency purposes.
 - Storm0x (Yearn)
 - Pablo Sabbatella (Blockfence)
 - Sipan V'artagnan (Hexens)
+- Vahe Karapetyan (Hexens)
+- Haim Krasniker (StarkWare)
+- Jazzy (Zellic)
+- Chris Hoffmeister (TRM Labs)
+- Rahul (TRM Labs)
 
 ## SEAL 911 Code of Conduct
 
