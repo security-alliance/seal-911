@@ -27,7 +27,7 @@ The current list of members is available below, for transparency purposes.
 - Yannis Bollanos (Dedaub)
 - Yannis Smaragdakis (Dedaub)
 - SunSec (DefiHackLabs)
-- Fredrik Svantes (EF Security)
+- Fredrik (EF Security)
 - Tony Ke (FuzzLand)
 - Aviv (Hexagate)
 - Niv (Hexagate)
