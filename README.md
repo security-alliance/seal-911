@@ -55,7 +55,7 @@ The current list of members is available below, for transparency purposes.
 - Jazzy (Zellic)
 - Chris Hoffmeister (TRM Labs)
 - Rahul (TRM Labs)
-- Johnan (Binance)
+- Ayden (Binance)
 
 ## SEAL 911 Code of Conduct
 
