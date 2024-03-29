@@ -56,6 +56,7 @@ The current list of members is available below, for transparency purposes.
 - Chris Hoffmeister (TRM Labs)
 - Rahul (TRM Labs)
 - Ayden (Binance)
+- Symbiotic (Binance)
 
 ## SEAL 911 Code of Conduct
 
