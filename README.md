@@ -57,6 +57,7 @@ The current list of members is available below, for transparency purposes.
 - Rahul (TRM Labs)
 - Ayden (Binance)
 - Symbiotic (Binance)
+- Thibault (Dfns)
 
 ## SEAL 911 Code of Conduct
 
