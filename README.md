@@ -58,6 +58,7 @@ The current list of members is available below, for transparency purposes.
 - Ayden (Binance)
 - Symbiotic (Binance)
 - Thibault (Dfns)
+- Daniel Luca (Eden Block)
 
 ## SEAL 911 Code of Conduct
 
