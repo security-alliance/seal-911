@@ -59,6 +59,7 @@ The current list of members is available below, for transparency purposes.
 - Symbiotic (Binance)
 - Thibault (Dfns)
 - Daniel Luca (Eden Block)
+- Brain Carter (Chainalysis)
 
 ## SEAL 911 Code of Conduct
 
