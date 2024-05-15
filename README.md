@@ -60,6 +60,7 @@ The current list of members is available below, for transparency purposes.
 - Thibault (Dfns)
 - Daniel Luca (Eden Block)
 - Brian Carter (Chainalysis)
+- Vincent (Ledger)
 
 ## SEAL 911 Code of Conduct
 
