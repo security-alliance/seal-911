@@ -61,6 +61,7 @@ The current list of members is available below, for transparency purposes.
 - Daniel Luca (Eden Block)
 - Brian Carter (Chainalysis)
 - Vincent (Ledger)
+- Lei Wu (BlockSec)
 
 ## SEAL 911 Code of Conduct
 
