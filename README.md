@@ -62,6 +62,7 @@ The current list of members is available below, for transparency purposes.
 - Brian Carter (Chainalysis)
 - Vincent (Ledger)
 - Yajin Zhou (BlockSec)
+- Lei Wu (BlockSec)
 
 ## SEAL 911 Code of Conduct
 
