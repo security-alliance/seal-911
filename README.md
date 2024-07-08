@@ -1,6 +1,6 @@
 # SEAL 911
 
-SEAL 911 is a project designed to give users, developers, and security researchers an **accessible way** to connect with a small group of highly trusted security professionals in case of emergency. The group can be reached via the [Telegram bot](https://t.me/seal_911_bot).
+SEAL 911 is a project designed to give users, developers, and security researchers an **accessible way** to connect with a small group of highly trusted security professionals in case of emergency. The group can be reached via the [SEAL 911 Telegram bot](https://t.me/seal_911_bot).
 
 ## How Do I Join?
 

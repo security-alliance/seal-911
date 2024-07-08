@@ -6,23 +6,25 @@
 
 ## Data Retention Period
 
-The default retention period for your data is **12 months**. You have the option to opt out of this default retention period at any time.
+The default retention period for your data is **12 months**. You have the option to opt out of this default retention period at any time. To do so, please notify us through a new ticket in the [SEAL 911 Telegram bot](https://t.me/seal_911_bot).
 
 ## Data Retention Cycle
 
 The personal data retention cycle consists of three distinct successive phases:
 
-1. Active Ticket: Your data is actively used and managed inside of the SEAL 911 bot.
-2. Intermediate Archiving: Upon closing of the ticket, your data is moved to a secure intermediate archive.
-3. Deletion: After 12 months, your data is fully deleted within the SEAL 911 bot and the intermediate archive.
+1. Active ticket: Your data is actively used and managed inside of the SEAL 911 Telegram bot.
+2. Intermediate archiving: Upon closing of the ticket, your data is moved to a secure intermediate archive.
+3. Deletion: After 12 months, your data is fully deleted within the SEAL 911 Telegram bot and the intermediate archive.
 
-## Sharing With SEAL ISAC
+If special circumstances require us to retain the data beyond the 12-month period, we will contact you to seek your consent. If we do not receive a response, we will assume that you do not consent.
 
-SEAL 911 members may share non-PII (Personal Identifiable Information) data and moderately sensitive data with SEAL ISAC (Information Sharing and Analysis Center), which operates under a separate data retention policy. You can opt out of this sharing at any time and request deletion of your data from SEAL ISAC.
+## Data Sharing With SEAL ISAC
+
+SEAL 911 members may share non-PII (Personal Identifiable Information) data and moderately sensitive data with SEAL ISAC (Information Sharing and Analysis Center), which operates under a separate data retention policy. To enable potential future communication with victims, we collect and store Telegram usernames and jurisdiction information, classified as **TLP:RED** within SEAL ISAC. You can opt out of this sharing at any time and request deletion of your data from SEAL ISAC. To do so, please notify us through a new ticket in the [SEAL 911 Telegram bot](https://t.me/seal_911_bot).
 
 ## Communication Channels
 
-Please note that the SEAL 911 bot operates on Telegram, which is not encrypted by default. We are happy to open other communication channels (e.g., Signal) to exchange sensitive information securely.
+Please note that the SEAL 911 Telegram bot operates on Telegram, which is not encrypted by default. We are happy to open other communication channels (e.g., Signal) to exchange sensitive information securely.
 
 ## Your Concerns and Requests
 
