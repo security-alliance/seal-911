@@ -28,7 +28,7 @@ Please note that the SEAL 911 Telegram bot operates on Telegram, which is not en
 
 ## Your Concerns and Requests
 
-As security professionals, we value your privacy above all. If you have any questions or specific requests, please let us know, and we will do our best to address your concerns. **Privacy is not a meme at SEAL 911; it is one of our core principles!**
+As security professionals, we value your privacy above all. If you have any questions or specific requests, please let us know via the [SEAL 911 Telegram bot](https://t.me/seal_911_bot), and we will do our best to address your concerns. **Privacy is not a meme at SEAL 911; it is one of our core principles!**
 
 ---
 
