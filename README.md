@@ -2,6 +2,9 @@
 
 SEAL 911 is a project designed to give users, developers, and security researchers an **accessible way** to connect with a small group of highly trusted security professionals in case of emergency. The group can be reached via the [SEAL 911 Telegram bot](https://t.me/seal_911_bot).
 
+> [!TIP]
+> You can read about the other ongoing initiatives of the Security Alliance [here](https://securityalliance.org).
+
 ## How Do I Join?
 
 Given the high trust required for this project to function, membership is available on an **invite-only** basis. Typically, at least one existing member will vouch for the new member. Commercial organisations are limited to a maximum of two members.
