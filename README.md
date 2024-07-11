@@ -63,6 +63,8 @@ The current list of members is available below, for transparency purposes.
 - Charles (Ledger)
 - Yajin Zhou (BlockSec)
 - Lei Wu (BlockSec)
+- Julia (zeroShadow)
+- Jonty (zeroShadow)
 
 ## SEAL 911 Code of Conduct
 
