@@ -18,9 +18,9 @@ The personal data retention cycle consists of three distinct successive phases:
 
 If special circumstances require us to retain the data beyond the 12-month period, we will contact you to seek your consent. If we do not receive a response, we will assume that you do not consent.
 
-## Data Sharing With SEAL ISAC
+## Data Sharing With SEAL-ISAC
 
-SEAL 911 members may share non-PII (Personal Identifiable Information) data and moderately sensitive data with SEAL ISAC (Information Sharing and Analysis Center), which operates under a separate data retention policy. To enable potential future communication with victims, we collect and store Telegram usernames and jurisdiction information, classified as **TLP:RED** within SEAL ISAC. When relevant, we will include essential details about the incident, such as compromised on-chain addresses, destinations of stolen funds, and pertinent Indicators of Compromise (IoCs) and Tactics, Techniques, and Procedures (TTPs). These efforts are designed to support future investigations or cases involving the same threat actors. You can opt out of this sharing at any time and request deletion of your data from SEAL ISAC. To do so, please notify us through a new ticket in the [SEAL 911 Telegram bot](https://t.me/seal_911_bot).
+SEAL 911 members may share non-PII (Personal Identifiable Information) data and moderately sensitive data with SEAL-ISAC (Information Sharing and Analysis Center), which operates under a separate data retention policy. To enable potential future communication with victims, we collect and store Telegram usernames and jurisdiction information, classified as **TLP:RED** within SEAL-ISAC. When relevant, we will include essential details about the incident, such as compromised on-chain addresses, destinations of stolen funds, and pertinent Indicators of Compromise (IoCs) and Tactics, Techniques, and Procedures (TTPs). These efforts are designed to support future investigations or cases involving the same threat actors. You can opt out of this sharing at any time and request deletion of your data from SEAL-ISAC. To do so, please notify us through a new ticket in the [SEAL 911 Telegram bot](https://t.me/seal_911_bot).
 
 ## Communication Channels
 
