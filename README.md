@@ -1,14 +1,17 @@
 # SEAL 911
 
-SEAL 911 is a project designed to give users, developers, and even other security researchers an accessible method to contact a small group of highly trusted security researchers. The group can be reached via the [Telegram bot](https://t.me/seal_911_bot).
+SEAL 911 is a project designed to give users, developers, and security researchers an **accessible way** to connect with a small group of highly trusted security professionals in case of emergency. The group can be reached via the [SEAL 911 Telegram bot](https://t.me/seal_911_bot).
 
-## How do I join?
+> [!TIP]
+> You can read about the other ongoing initiatives of the Security Alliance [here](https://securityalliance.org).
 
-Given the high trust required for this project to function, membership is available on an invite-only basis. Typically, at least one existing member will vouch for the new member. Commercial organizations are limited to a maximum of two members.
+## How Do I Join?
+
+Given the high trust required for this project to function, membership is available on an **invite-only** basis. Typically, at least one existing member will vouch for the new member. Commercial organisations are limited to a maximum of two members.
 
 ## Members
 
-The current list of members is available below, for transparency purposes.
+For the sake of transparency, the current list of members is provided below.
 
 - 0xc0ffeebabe
 - Iamdeadlyz
@@ -69,3 +72,7 @@ The current list of members is available below, for transparency purposes.
 ## SEAL 911 Code of Conduct
 
 See [here](./CODE_OF_CONDUCT.md).
+
+## SEAL 911 Data Retention Policy
+
+See [here](./DATA_RETENTION_POLICY.md).
