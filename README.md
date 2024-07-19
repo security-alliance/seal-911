@@ -12,7 +12,7 @@ Given the high trust required for this project to function, membership is availa
 ## Members
 
 > [!IMPORTANT]
-> Should a SEAL 911 member reach out to you directly, please take the following steps to ensure their authenticity. Share an unguessable keyword sentence with them. Then, open a ticket in the [SEAL 911 Telegram bot](https://t.me/seal_911_bot) and request the SEAL 911 member to provide the shared keyword. Provided the SEAL 911 Telegram bot remains uncompromised, this process will effectively verify the authenticity of any SEAL 911 member who contacts you.
+> Should a SEAL 911 member reach out to you directly, please take the following steps to ensure their authenticity. Share an unguessable keyword sentence with them. Then, open a ticket in the [SEAL 911 Telegram bot](https://t.me/seal_911_bot) and request the SEAL 911 member to provide the shared keyword. Provided the [SEAL 911 Telegram bot](https://t.me/seal_911_bot) remains uncompromised, this process will effectively verify the authenticity of any SEAL 911 member who contacts you.
 
 For the sake of transparency, the current list of members is provided below.
 
