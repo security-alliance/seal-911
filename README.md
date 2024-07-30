@@ -71,6 +71,7 @@ For the sake of transparency, the current list of members is provided below.
 - Lei Wu (BlockSec)
 - Julia (zeroShadow)
 - Jonty (zeroShadow)
+- Oussama (Phantom)
 
 ## SEAL 911 Code of Conduct
 
