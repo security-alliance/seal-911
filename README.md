@@ -17,16 +17,13 @@ Given the high trust required for this project to function, membership is availa
 For the sake of transparency, the current list of members is provided below.
 
 - 0xc0ffeebabe
-- Iamdeadlyz
 - pcaversaccio
 - ZachXBT
-- Jonathan Claudius (Asymmetric Research)
 - Fabio (Blowfish)
 - Josh (CF Investigators)
 - Brian Pak (ChainLight)
 - setuid0 (ChainLight)
 - Nikita (ChainPatrol)
-- Umar (ChainPatrol)
 - Conor (Coinbase)
 - Miguel (Tracelon)
 - tayvano (ConsenSys)
@@ -38,15 +35,12 @@ For the sake of transparency, the current list of members is provided below.
 - Aviv (Hexagate)
 - Niv (Hexagate)
 - Dan (Hypernative)
-- Roy (Hypernative)
 - Vazi (Hypernative)
-- Assaf (Ironblocks)
 - Or (Ironblocks)
 - Michael Lewellen (OpenZeppelin)
 - DanielVF (Origin Protocol)
 - NotDeGhost (OtterSec)
 - samczsun (Paradigm)
-- fun (ScamSniffer)
 - Blue (SlowMist)
 - Oren Fine (SphereX)
 - Ovadia (SphereX)
@@ -58,15 +52,11 @@ For the sake of transparency, the current list of members is provided below.
 - Sipan V'artagnan (Hexens)
 - Vahe Karapetyan (Hexens)
 - Haim Krasniker (StarkWare)
-- Jazzy (Zellic)
-- Chris Hoffmeister (TRM Labs)
 - Rahul (TRM Labs)
 - Ayden (Binance)
 - Symbiotic (Binance)
 - Thibault (Dfns)
-- Brian Carter (Chainalysis)
 - Vincent (Ledger)
-- Charles (Ledger)
 - Yajin Zhou (BlockSec)
 - Lei Wu (BlockSec)
 - Julia (zeroShadow)
