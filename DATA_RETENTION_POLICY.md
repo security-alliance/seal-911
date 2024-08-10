@@ -19,9 +19,9 @@ The default retention period for your data is **12 months** to allow us to respo
 
 The personal data retention system consists of three phases:
 
-1. Active ticket: Your data is actively used and managed inside of the SEAL 911 Telegram bot.
-2. Intermediate archiving: Upon closing of the ticket, your data is moved to a secure intermediate archive.
-3. Deletion: After 12 months, your data is fully deleted within the SEAL 911 Telegram bot and the intermediate archive.
+**1. Active ticket:** Your data is actively used and managed inside of the SEAL 911 Telegram bot.
+**2. Intermediate archiving:** Upon closing of the ticket, your data is moved to a secure intermediate archive.
+**3. Deletion:** After 12 months, your data is fully deleted within the SEAL 911 Telegram bot and the intermediate archive.
 
 If special circumstances require us to retain the data beyond the 12-month period, we will contact you to seek your consent. If we do not receive a response, we will assume that you do not consent.
 
