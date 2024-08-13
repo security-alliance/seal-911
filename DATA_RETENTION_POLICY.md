@@ -9,7 +9,7 @@
 
 ## How We Handle Your Personal Data
 
-If you submit a ticket via the [SEAL 911 Telegram bot](https://t.me/seal_911_bot), we may receive and process personal data that you provide to us for the purpose of detecting, preventing, or responding to a cyber security matter. Personal data may include your pseudonym, email address, Telegram handle, location data, or financial information. We may only use and share your personal data for this purpose and in accordance with this Data Retention Policy.
+If you submit a ticket via the [SEAL 911 Telegram bot](https://t.me/seal_911_bot), we may receive and process personal data that you provide to us for the purpose of detecting, preventing, or responding to a cyber security matter. Personal data includes your Telegram display name and profile (if public) as well as any additional information you disclose within the ticket such as your pseudonym, email address, location data, or financial information. We may only use and share your personal data for this purpose and in accordance with this Data Retention Policy.
 
 ## Data Retention Period
 
