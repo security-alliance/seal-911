@@ -62,6 +62,7 @@ For the sake of transparency, the current list of members is provided below.
 - Julia (zeroShadow)
 - Jonty (zeroShadow)
 - Oussama (Phantom)
+- Simon (Elliptic)
 
 ## SEAL 911 Code of Conduct
 
