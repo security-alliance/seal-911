@@ -63,6 +63,7 @@ For the sake of transparency, the current list of members is provided below.
 - Jonty (zeroShadow)
 - Oussama (Phantom)
 - Simon (Elliptic)
+- fun (Scam Sniffer)
 
 ## SEAL 911 Code of Conduct
 
