@@ -47,7 +47,7 @@ For the sake of transparency, the current list of members is provided below.
 - Andrew (Privy)
 - Ohm (Wallet Guard)
 - Igor (Wintermute)
-- Storm0x (Yearn)
+- Storm0x (Independent)
 - Pablo (Blockfence)
 - Sipan (Hexens)
 - Vahe (Hexens)
