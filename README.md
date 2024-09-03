@@ -26,6 +26,7 @@ For the sake of transparency, the current list of members is provided below.
 - Nikita (ChainPatrol)
 - Conor (Coinbase)
 - Miguel (Tracelon)
+- Lauren (Tracelon)
 - Tay (Consensys)
 - Yannis B. (Dedaub)
 - Yannis S. (Dedaub)
