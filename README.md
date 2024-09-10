@@ -39,6 +39,7 @@ For the sake of transparency, the current list of members is provided below.
 - Vazi (Hypernative)
 - Or (Ironblocks)
 - Michael (OpenZeppelin)
+- monsoon (OpenZeppelin)
 - Daniel (Origin Protocol)
 - Robert (OtterSec)
 - samczsun (Paradigm)
