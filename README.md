@@ -32,7 +32,7 @@ For the sake of transparency, the current list of members is provided below.
 - Yannis S. (Dedaub)
 - SunSec (DefiHackLabs)
 - Fredrik (Ethereum Foundation Security)
-- Tony (FuzzLand)
+- Tony (Fuzzland)
 - Aviv (Hexagate)
 - Niv (Hexagate)
 - Dan (Hypernative)
