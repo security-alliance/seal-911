@@ -67,6 +67,7 @@ For the sake of transparency, the current list of members is provided below.
 - Simon (Elliptic)
 - Fun (Scam Sniffer)
 - Ryan (Gauntlet)
+- Nick (Independent)
 
 ## SEAL 911 Code of Conduct
 
