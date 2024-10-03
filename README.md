@@ -21,7 +21,6 @@ For the sake of transparency, the current list of members is provided below.
 
 - 0xc0ffeebabe (Independent)
 - pcaversaccio (Independent)
-- ZachXBT (Independent)
 - Josh (Cryptoforensic Investigators)
 - Brian (ChainLight)
 - setuid0 (ChainLight)
