@@ -56,7 +56,7 @@ For the sake of transparency, the current list of members is provided below.
 - Vincent (Ledger)
 - Lei (BlockSec)
 - Julia (zeroShadow)
-- Jonty (zeroShadow)
+- tanuki_42 (zeroShadow)
 - Oussama (Phantom)
 - Simon (Elliptic)
 - Fun (Scam Sniffer)
