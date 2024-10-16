@@ -49,6 +49,7 @@ For the sake of transparency, the current list of members is provided below.
 - Storm0x (Independent)
 - Pablo (Blockfence)
 - Sipan (Hexens)
+- Ruben (Hexens)
 - Haim (StarkWare)
 - Ayden (Binance)
 - Symbiotic (Binance)
