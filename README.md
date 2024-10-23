@@ -70,7 +70,7 @@ See [here](./CODE_OF_CONDUCT.md).
 
 ## SEAL 911 Data Retention Policy
 
-See [here](./DATA_RETENTION_POLICY.md).$
+See [here](./DATA_RETENTION_POLICY.md).
 
 ## SEAL 911 Incident Resolution Log
 
