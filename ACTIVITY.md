@@ -3,7 +3,7 @@
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
 - [dice9win white hat rescue](https://www.dlnews.com/articles/defi/seal-911-team-stops-dice9win-exploit-mid-hack)
-- [Geth Out-of-Order EIP Application Denial-of-Service](https://iosiro.com/blog/geth-out-of-order-eip-application-denial-of-service)
+- [Geth out-of-order EIP application denial-of-service](https://iosiro.com/blog/geth-out-of-order-eip-application-denial-of-service)
 - Balancer DNS takeover
 - [ParaSwap white hat rescue](https://paraswap.medium.com/post-mortem-augustus-v6-vulnerability-of-march-20th-2024-5df663a4bf01)
 - [Sonne Finance white hat rescue](https://medium.com/@SonneFinance/post-mortem-sonne-finance-exploit-12f3daa82b06)
