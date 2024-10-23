@@ -70,4 +70,8 @@ See [here](./CODE_OF_CONDUCT.md).
 
 ## SEAL 911 Data Retention Policy
 
-See [here](./DATA_RETENTION_POLICY.md).
+See [here](./DATA_RETENTION_POLICY.md).$
+
+## SEAL 911 Incident Resolution Log
+
+You can find [here](./ACTIVITY.md) a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
