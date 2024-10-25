@@ -21,6 +21,8 @@ For the sake of transparency, the current list of members is provided below.
 
 - 0xc0ffeebabe (Independent)
 - pcaversaccio (Independent)
+- Nick (Independent)
+- Ross (Independent)
 - Josh (Cryptoforensic Investigators)
 - Brian (ChainLight)
 - setuid0 (ChainLight)
@@ -62,7 +64,6 @@ For the sake of transparency, the current list of members is provided below.
 - Simon (Elliptic)
 - Fun (Scam Sniffer)
 - Ryan (Gauntlet)
-- Nick (Independent)
 
 ## SEAL 911 Code of Conduct
 
