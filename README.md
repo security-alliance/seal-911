@@ -49,7 +49,7 @@ For the sake of transparency, the current list of members is provided below.
 - Ovadia (SphereX)
 - Andrew (Privy)
 - Igor (Wintermute)
-- Pablo (Blockfence)
+- Pablo (Opsek)
 - Sipan (Hexens)
 - Ruben (Hexens)
 - Haim (StarkWare)
