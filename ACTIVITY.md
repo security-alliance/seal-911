@@ -19,3 +19,4 @@ This is a continually evolving, albeit incomplete, public record of incidents in
 - Fake Rabby iOS app takedown
 - [Responsible white hat disclosure 1](https://x.com/paladin_marco/status/1717482516578193661)
 - [Responsible white hat disclosure 2](https://x.com/hoshiyari420/status/1770819387433377940)
+- [Maia DAO white hat rescue](https://medium.com/@maiaDAO/post-mortem-sept-2024-05346c69b756)
