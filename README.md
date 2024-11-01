@@ -31,6 +31,7 @@ For the sake of transparency, the current list of members is provided below.
 - Miguel (Tracelon)
 - Lauren (Tracelon)
 - Tay (Consensys)
+- Ohm (Wallet Guard)
 - Yannis (Dedaub)
 - SunSec (DefiHackLabs)
 - Fredrik (Ethereum Foundation Security)
