@@ -55,7 +55,7 @@ For the sake of transparency, the current list of members is provided below.
 - Ruben (Hexens)
 - Haim (StarkWare)
 - Ayden (Binance)
-- Kabira (Binance)
+- Gabru (Binance)
 - Thibault (Dfns)
 - Vincent (Ledger)
 - Lei (BlockSec)
