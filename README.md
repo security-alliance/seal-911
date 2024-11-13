@@ -58,6 +58,7 @@ For the sake of transparency, the current list of members is provided below.
 - Gabru (Binance)
 - Thibault (Dfns)
 - Vincent (Ledger)
+- Alain (Ledger)
 - Lei (BlockSec)
 - Julia (zeroShadow)
 - tanuki_42 (zeroShadow)
