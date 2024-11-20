@@ -65,6 +65,7 @@ For the sake of transparency, the current list of members is provided below.
 - Oussama (Phantom)
 - Simon (Elliptic)
 - Fun (Scam Sniffer)
+- Gerardo (Aptos)
 
 ## SEAL 911 Code of Conduct
 
