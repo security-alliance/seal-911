@@ -66,7 +66,7 @@ For the sake of transparency, the current list of members is provided below.
 - Simon (Elliptic)
 - Fun (Scam Sniffer)
 - Gerardo (Aptos)
-- Alex (Mysten Labs)
+- Alex (Sui Foundation)
 
 ## SEAL 911 Code of Conduct
 
