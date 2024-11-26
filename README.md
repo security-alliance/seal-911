@@ -32,7 +32,7 @@ For the sake of transparency, the current list of members is provided below.
 - Lauren (Tracelon)
 - Tay (Consensys)
 - Ohm (Wallet Guard)
-- Yannis (Dedaub)
+- Michael (Dedaub)
 - SunSec (DefiHackLabs)
 - Fredrik (Ethereum Foundation Security)
 - Tony (Fuzzland)
