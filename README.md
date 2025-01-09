@@ -29,7 +29,6 @@ For the sake of transparency, the current list of members is provided below.
 - Tay (Consensys)
 - Michael (Dedaub)
 - SunSec (DefiHackLabs)
-- Tony (Fuzzland)
 - Niv (Hexagate)
 - Dan (Hypernative)
 - Vazi (Hypernative)
