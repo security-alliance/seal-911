@@ -24,3 +24,4 @@ This is a continually evolving, albeit incomplete, public record of incidents in
 - [Moby white hat rescue](https://medium.com/moby-trade/moby-post-mortem-report-growth-plan-504ad5b0dd35)
 - [Orange Finance incident resolution](https://mirror.xyz/0x6FA2aF9a4d6fFe654361F713780963C10412e7c3/gN17YMrLhKKg9YT9a391U74pWr9IhqBUDWUqDyDamjE)
 - [Arrakis Finance incident resolution](https://x.com/ArrakisFinance/status/1880008260507390121)
+- [Paribus white hat rescue coordination](https://bitfinding.com/blog/paribus-hack-interception)
