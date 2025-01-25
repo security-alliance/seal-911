@@ -25,3 +25,4 @@ This is a continually evolving, albeit incomplete, public record of incidents in
 - [Orange Finance incident resolution](https://mirror.xyz/0x6FA2aF9a4d6fFe654361F713780963C10412e7c3/gN17YMrLhKKg9YT9a391U74pWr9IhqBUDWUqDyDamjE)
 - [Arrakis Finance incident resolution](https://x.com/ArrakisFinance/status/1880008260507390121)
 - [Paribus white hat rescue coordination](https://bitfinding.com/blog/paribus-hack-interception)
+- [Ledger Co-Founder ransom incident support](https://en.thebigwhale.io/article-en/nicolas-bacca-we-have-invented-a-unique-organisational-model-for-intervening-in-cryptocurrency-ransomware)
