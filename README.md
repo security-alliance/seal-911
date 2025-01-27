@@ -26,7 +26,6 @@ For the sake of transparency, the current list of members is provided below.
 - Josh (Cryptoforensic Investigators)
 - Miguel (Tracelon)
 - Lauren (Tracelon)
-- Tay (Consensys)
 - Michael (Dedaub)
 - SunSec (DefiHackLabs)
 - Niv (Hexagate)
