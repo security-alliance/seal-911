@@ -35,7 +35,6 @@ For the sake of transparency, the current list of members is provided below.
 - Daniel (Origin Protocol)
 - Robert (OtterSec)
 - samczsun (Paradigm)
-- Blue (SlowMist)
 - Andrew (Privy)
 - Igor (Wintermute)
 - Gabru (Binance)
