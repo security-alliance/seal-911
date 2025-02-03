@@ -2,6 +2,8 @@
 
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
+- [Geth release `Schwarzschild` cross-chain coordination support](https://github.com/ethereum/go-ethereum/releases/tag/v1.14.13)
+- [Modulo-reduced RFC 6979 nonce (`k`) generation](https://blog.electisec.tech/blogs/2025-01-14-from-failing-test-to-calling-911)
 - [Ledger Co-Founder ransom incident support](https://en.thebigwhale.io/article-en/nicolas-bacca-we-have-invented-a-unique-organisational-model-for-intervening-in-cryptocurrency-ransomware)
 - [Paribus white hat rescue coordination](https://bitfinding.com/blog/paribus-hack-interception)
 - [Arrakis Finance incident resolution](https://x.com/ArrakisFinance/status/1880008260507390121)
