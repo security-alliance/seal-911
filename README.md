@@ -39,13 +39,11 @@ For the sake of transparency, the current list of members is provided below.
 - Igor (Wintermute)
 - Gabru (Binance)
 - Zollua (Binance)
-- Alain (Ledger)
 - Julia (zeroShadow)
 - tanuki_42 (zeroShadow)
 - Oussama (Phantom)
 - Simon (Elliptic)
 - Alex (Sui Foundation)
-- Davi (HackenProof)
 - Lotem (StarkWare)
 
 ## SEAL 911 Code of Conduct
