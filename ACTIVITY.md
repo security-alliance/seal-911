@@ -2,6 +2,7 @@
 
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
+- [Cardex incident resolution](https://x.com/0xCygaar/status/1891948692204368122)
 - [zkLend incident resolution](https://drive.google.com/file/d/10i1dh_J89tPPw7KRcmFIVM6iNrJZAyfi/view)
 - [Geth release `Schwarzschild` cross-chain coordination support](https://github.com/ethereum/go-ethereum/releases/tag/v1.14.13)
 - [Modulo-reduced RFC 6979 nonce (`k`) generation](https://blog.electisec.tech/blogs/2025-01-14-from-failing-test-to-calling-911)
