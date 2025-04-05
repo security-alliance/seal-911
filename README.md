@@ -34,7 +34,7 @@ For the sake of transparency, the current list of members is provided below.
 - monsoon (OpenZeppelin)
 - Daniel (Origin Protocol)
 - Robert (OtterSec)
-- samczsun (SEAL)
+- samczsun (Security Alliance)
 - Andrew (Privy)
 - Igor (Wintermute)
 - Gabru (Binance)
