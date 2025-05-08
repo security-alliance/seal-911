@@ -2,6 +2,7 @@
 
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
+- [Loopscale incident resolution](https://blog.loopscale.com/posts/postmortem)
 - [Curve X account takeover](https://x.com/CurveFinance/status/1919462291017195827)
 - [ZKsync Era incident resolution](https://x.com/TheZKNation/status/1915110305790660939)
 - [KiloEx incident resolution](https://x.com/KiloEx_perp/status/1913168299292328115)
