@@ -42,7 +42,7 @@ For the sake of transparency, the current list of members is provided below.
 - Zollua (Binance)
 - Julia (zeroShadow)
 - tanuki_42 (zeroShadow)
-- Oussama (Phantom)
+- Oussama (Pump)
 - Simon (Elliptic)
 - Alex (Sui Foundation)
 - Lotem (StarkWare)
