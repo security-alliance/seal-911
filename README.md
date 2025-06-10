@@ -9,6 +9,16 @@ SEAL 911 is a project designed to give users, developers, and security researche
 
 Given the high trust required for this project to function, membership is available on an **invite-only** basis. Typically, at least one existing member will vouch for the new member. Commercial organisations are limited to a maximum of two members.
 
+## Beyond Our Volunteer Capacity
+
+SEAL 911 operates as a volunteer-based organisation and does **not** provide paid services. We handle tickets based on available bandwidth from our volunteer members. Many tickets require extensive onchain tracing work over long periods of time that we cannot provide due to the high volume of tickets we handle. However, several SEAL 911 members specialise in tracing work and offer professional services through their own firms. You can find them listed here (please note that the order does not indicate any preference):
+
+- [Tracelon](https://tracelon.com)
+- [Cryptoforensic Investigators](https://cryptoforensic.com)
+- [zeroShadow](https://www.zeroshadow.io)
+
+Additionally, there are other professional firms outside of SEAL 911 that provide similar specialised services in this field.
+
 ## Members
 
 > [!IMPORTANT]
