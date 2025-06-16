@@ -2,6 +2,7 @@
 
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
+- [Interchain (Cosmos) DPRK-linked incident resolution](https://www.theblock.co/post/358277/interchain-labs-cosmos-north-korea-actor)
 - [Dexodus Finance incident resolution](https://x.com/dexodusfinance/status/1927392460684067031)
 - [Loopscale incident resolution](https://blog.loopscale.com/posts/postmortem)
 - [Curve X account takeover](https://x.com/CurveFinance/status/1919462291017195827)
