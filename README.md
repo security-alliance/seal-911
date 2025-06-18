@@ -71,15 +71,4 @@ You can find [here](./ACTIVITY.md) a continually evolving, albeit incomplete, pu
 
 ## Donations
 
-The SEAL 911 multisig (5-of-7) is deployed at address `0x911abFc05B70B99E921C1753e34475a390B4ff58` across the following networks:
-
-- [Ethereum](https://etherscan.io/address/0x911abFc05B70B99E921C1753e34475a390B4ff58)
-- [Optimism](https://optimistic.etherscan.io/address/0x911abFc05B70B99E921C1753e34475a390B4ff58)
-- [Binance](https://bscscan.com/address/0x911abFc05B70B99E921C1753e34475a390B4ff58)
-- [Polygon](https://polygonscan.com/address/0x911abFc05B70B99E921C1753e34475a390B4ff58)
-- [Base](https://basescan.org/address/0x911abFc05B70B99E921C1753e34475a390B4ff58)
-- [Arbitrum](https://arbiscan.io/address/0x911abFc05B70B99E921C1753e34475a390B4ff58)
-- [Linea](https://lineascan.build/address/0x911abFc05B70B99E921C1753e34475a390B4ff58)
-- [Scroll](https://scrollscan.com/address/0x911abFc05B70B99E921C1753e34475a390B4ff58)
-
-On ZKsync Era, the SEAL 911 multisig (5-of-7) is deployed at address [`0x265d1C1B10E644014D461b65a2e5414D3686cF22`](https://era.zksync.network/address/0x265d1C1B10E644014D461b65a2e5414D3686cF22).
+The SEAL 911 multisig (3-of-5) is deployed on Ethereum at address [`0xba5Ed9942ea64e8D789187E0aF6a0390d78BA5ed`](https://etherscan.io/address/0xba5Ed9942ea64e8D789187E0aF6a0390d78BA5ed).
