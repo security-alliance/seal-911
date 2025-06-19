@@ -71,4 +71,4 @@ You can find [here](./ACTIVITY.md) a continually evolving, albeit incomplete, pu
 
 ## Donations
 
-The SEAL 911 multisig (3-of-5) is deployed on Ethereum at address [`0xba5Ed9942ea64e8D789187E0aF6a0390d78BA5ed`](https://etherscan.io/address/0xba5Ed9942ea64e8D789187E0aF6a0390d78BA5ed).
+You can support the SEAL 911 volunteers by donating to their 3-of-5 multisig: [`0xba5Ed9942ea64e8D789187E0aF6a0390d78BA5ed`](https://etherscan.io/address/0xba5Ed9942ea64e8D789187E0aF6a0390d78BA5ed).
