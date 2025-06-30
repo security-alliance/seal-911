@@ -2,6 +2,7 @@
 
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
+- [Asymmetry (USDaf) incident resolution](https://medium.com/@asymmetryfin/report-usdaf-oracle-incident-d40feff2ae52)
 - [Interchain (Cosmos) DPRK-linked incident resolution](https://www.theblock.co/post/358277/interchain-labs-cosmos-north-korea-actor)
 - [Dexodus Finance incident resolution](https://x.com/dexodusfinance/status/1927392460684067031)
 - [Loopscale incident resolution](https://blog.loopscale.com/posts/postmortem)
