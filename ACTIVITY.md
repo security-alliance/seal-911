@@ -2,7 +2,7 @@
 
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
-- [Uninitialised proxies white hat rescue](https://x.com/deeberiroz/status/1943041785476894996)
+- [Malicious proxy implementation contracts white hat rescue](https://x.com/deeberiroz/status/1943041785476894996)
 - [Cove white hat rescue](https://mirror.xyz/covefi.eth/hrHACZ8Hk2DD40Naivq1jvNvVIGBlWAFeCOxEXZHF_U)
 - [Asymmetry (USDaf) incident resolution](https://medium.com/@asymmetryfin/report-usdaf-oracle-incident-d40feff2ae52)
 - [Interchain (Cosmos) DPRK-linked incident resolution](https://www.theblock.co/post/358277/interchain-labs-cosmos-north-korea-actor)
