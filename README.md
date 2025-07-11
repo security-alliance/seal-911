@@ -3,7 +3,7 @@
 SEAL 911 is a project designed to give users, developers, and security researchers an **accessible way** to connect with a small group of highly trusted security professionals in case of emergency. The group can be reached via the [SEAL 911 Telegram bot](https://t.me/seal_911_bot).
 
 > [!TIP]
-> You can read about the other ongoing initiatives of the Security Alliance [here](https://securityalliance.org).
+> You can read about the other ongoing initiatives of the Security Alliance [here](https://securityalliance.org). Furthermore, SEAL 911's official Xwitter account is [@seal_911](https://x.com/seal_911).
 
 ## How Do I Join?
 
