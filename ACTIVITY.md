@@ -2,6 +2,7 @@
 
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
+- [WOO X incident resolution](https://woox.io/blog/july-24th-security-incident-post-mortem)
 - [Malicious proxy implementation contracts white hat rescue](https://x.com/deeberiroz/status/1943041785476894996)
 - [Cove white hat rescue](https://mirror.xyz/covefi.eth/hrHACZ8Hk2DD40Naivq1jvNvVIGBlWAFeCOxEXZHF_U)
 - [Asymmetry (USDaf) incident resolution](https://medium.com/@asymmetryfin/report-usdaf-oracle-incident-d40feff2ae52)
