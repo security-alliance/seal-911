@@ -2,6 +2,7 @@
 
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
+- [Tally X account takeover](https://x.com/tallyxyz/status/1963382589168787750)
 - [WOO X incident resolution](https://woox.io/blog/july-24th-security-incident-post-mortem)
 - [Malicious proxy implementation contracts white hat rescue](https://x.com/deeberiroz/status/1943041785476894996)
 - [Cove white hat rescue](https://mirror.xyz/covefi.eth/hrHACZ8Hk2DD40Naivq1jvNvVIGBlWAFeCOxEXZHF_U)
