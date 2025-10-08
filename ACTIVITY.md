@@ -2,6 +2,7 @@
 
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
+- [Monshape X account takeover](https://x.com/Monshape/status/1975952606746075163)
 - [Degen white hat rescue](https://x.com/degentokenbase/status/1966420300205089035)
 - [Panoptic white hat rescue](https://panoptic.xyz/blog/position-spoofing-post-mortem)
 - [Tally X account takeover](https://x.com/tallyxyz/status/1963382589168787750)
