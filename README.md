@@ -44,7 +44,7 @@ For the sake of transparency, the current list of members is provided below.
 - Dan (Hypernative)
 - Vazi (Hypernative)
 - monsoon (OpenZeppelin)
-- Daniel (Origin Protocol)
+- Daniel (Monad)
 - samczsun (Security Alliance)
 - Andrew (Privy)
 - Igor (Wintermute)
