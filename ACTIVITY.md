@@ -2,6 +2,7 @@
 
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
+- [Arcadia incident resolution](https://x.com/MH3NFT/status/1985332148622991642)
 - [Monshape X account takeover](https://x.com/Monshape/status/1975952606746075163)
 - [Degen white hat rescue](https://x.com/degentokenbase/status/1966420300205089035)
 - [Panoptic white hat rescue](https://panoptic.xyz/blog/position-spoofing-post-mortem)
