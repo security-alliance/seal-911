@@ -48,6 +48,7 @@ For the sake of transparency, the current list of members is provided below.
 - samczsun (Security Alliance)
 - Andrew (Privy)
 - Igor (Wintermute)
+- Fade (Wintermute)
 - Gabru (Binance)
 - Zollua (Binance)
 - Julia (zeroShadow)
