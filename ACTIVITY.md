@@ -2,6 +2,7 @@
 
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
+- [Layerswap incident resolution](https://x.com/layerswap/status/1991810671600673036)
 - [Balancer white hat rescue](https://x.com/Balancer/status/1988685056982835470)
 - [Balancer incident resolution](https://x.com/balancer/status/1986104426667401241)
 - [StakeWise white hat rescue](https://x.com/stakewise_io/status/1985800079354060932)
