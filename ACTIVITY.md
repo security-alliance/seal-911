@@ -2,6 +2,7 @@
 
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
+- [Polymarket incident resolution](https://www.theblock.co/post/383711/polymarket-third-party-vulnerability-hack)
 - [USPD incident resolution](https://uspd.io/blog/anatomy-of-a-hack)
 - [Yearn incident resolution](https://github.com/yearn/yearn-security/blob/master/disclosures/2025-12-01.md)
 - [Layerswap incident resolution](https://x.com/layerswap/status/1991810671600673036)
