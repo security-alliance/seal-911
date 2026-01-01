@@ -52,7 +52,7 @@ For the sake of transparency, the current list of members is provided below.
 - Gabru (Binance)
 - Zollua (Binance)
 - Julia (zeroShadow)
-- tanuki_42 (zeroShadow)
+- tanuki_42 (Independent)
 - Oussama (Pump)
 - Simon (Elliptic)
 - Alex (Sui Foundation)
