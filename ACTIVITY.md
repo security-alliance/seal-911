@@ -2,6 +2,7 @@
 
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
+- [Makina incident resolution](https://x.com/makinafi/status/2013660098539720742)
 - [IPOR incident resolution](https://x.com/ipor_io/status/2008728627190321480)
 - [Unleash Protocol incident resolution](https://x.com/UnleashProtocol/status/2005907998691229933)
 - [Trust Wallet incident resolution](https://trustwallet.com/blog/announcements/trust-wallet-browser-extension-v268-incident-community-update)
