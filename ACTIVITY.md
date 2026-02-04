@@ -3,7 +3,7 @@
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
 - [CometBFT consensus-level vulnerability patch](https://github.com/cometbft/cometbft/security/advisories/GHSA-c32p-wcqj-j677)
-- [Makina incident resolution](https://x.com/makinafi/status/2013660098539720742)
+- [Makina incident resolution](https://makinafi.substack.com/p/post-mortem-january-20th-2026-incident)
 - [IPOR incident resolution](https://x.com/ipor_io/status/2008728627190321480)
 - [Unleash Protocol incident resolution](https://x.com/UnleashProtocol/status/2005907998691229933)
 - [Trust Wallet incident resolution](https://trustwallet.com/blog/announcements/trust-wallet-browser-extension-v268-incident-community-update)
