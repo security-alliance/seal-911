@@ -2,6 +2,7 @@
 
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
+- [Velar PerpDEX incident resolution](https://mezo.org/blog/velars-perpdex-exploited-on-mezo)
 - [Solidity `TSTORE` poison bug incident resolution](https://www.soliditylang.org/blog/2026/02/18/transient-storage-clearing-helper-collision-bug)
 - [CometBFT consensus-level vulnerability patch](https://github.com/cometbft/cometbft/security/advisories/GHSA-c32p-wcqj-j677)
 - [Makina incident resolution](https://makinafi.substack.com/p/post-mortem-january-20th-2026-incident)
