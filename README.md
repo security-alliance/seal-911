@@ -36,7 +36,7 @@ For the sake of transparency, the current list of members is provided below.
 - Josh (Cryptoforensic Investigators)
 - Miguel (Tracelon)
 - Lauren (Tracelon)
-- Tay (Consensys)
+- Tay (Independent)
 - Robert (OtterSec)
 - Michael (OtterSec)
 - SunSec (DefiHackLabs)
