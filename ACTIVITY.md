@@ -2,6 +2,7 @@
 
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
+- [Bitrefill incident resolution](https://x.com/bitrefill/status/2033931580352221656)
 - [Curvance incident resolution](https://x.com/Curvance/status/2025038834660962741)
 - [Velar PerpDEX incident resolution](https://mezo.org/blog/velars-perpdex-exploited-on-mezo)
 - [Solidity `TSTORE` poison bug incident resolution](https://www.soliditylang.org/blog/2026/02/18/transient-storage-clearing-helper-collision-bug)
