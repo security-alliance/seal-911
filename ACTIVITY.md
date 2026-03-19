@@ -2,6 +2,7 @@
 
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
+- [Neutrl incident resolution](https://x.com/Neutrl/status/2034607770637680815)
 - [Bitrefill incident resolution](https://x.com/bitrefill/status/2033931580352221656)
 - [Curvance incident resolution](https://x.com/Curvance/status/2025038834660962741)
 - [Velar PerpDEX incident resolution](https://mezo.org/blog/velars-perpdex-exploited-on-mezo)
