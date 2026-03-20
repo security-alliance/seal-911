@@ -2,6 +2,7 @@
 
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
+- [BONKfun DNS takeover](https://x.com/bonkfun/status/2035047974666215737)
 - [Stake DAO Votemarket incident resolution](https://x.com/StakeDAOHQ/status/2034648580049293430)
 - [Neutrl DNS takeover](https://x.com/Neutrl/status/2034607770637680815)
 - [Bitrefill incident resolution](https://x.com/bitrefill/status/2033931580352221656)
