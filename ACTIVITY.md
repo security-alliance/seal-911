@@ -2,6 +2,7 @@
 
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
+- [Drift incident resolution](https://x.com/DriftProtocol/status/2040611161121370409)
 - [Resolv incident resolution](https://x.com/resolvlabs/status/2040480752643580252)
 - [BONKfun domain hijacking](https://x.com/bonkfun/status/2035047974666215737)
 - [Stake DAO Votemarket incident resolution](https://x.com/StakeDAOHQ/status/2034648580049293430)
