@@ -2,6 +2,7 @@
 
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
+- [CoW DAO domain hijacking](https://x.com/CoWSwap/status/2044924940886163780)
 - [Dango incident resolution](https://x.com/dango/status/2043669424805216745)
 - [Steakhouse Financial domain hijacking](https://x.com/SteakhouseFi/status/2042649690420724030)
 - [Drift incident resolution](https://x.com/DriftProtocol/status/2040611161121370409)
