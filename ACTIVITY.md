@@ -2,7 +2,7 @@
 
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
-- [Alephium incident resolution](https://x.com/alephium/status/2060769906879054334)
+- [Alephium incident resolution](https://x.com/alephium/status/2061839244373676284)
 - [Bexo incident resolution](https://x.com/bexowallet/status/2060858442026492349)
 - [Wildcat incident resolution](https://x.com/WildcatFi/status/2055399284397236502)
 - [TAC incident resolution](https://x.com/TacBuild/status/2055304313401127223)
