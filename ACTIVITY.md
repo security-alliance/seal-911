@@ -2,7 +2,7 @@
 
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
-- [Aptos struct hijack bug incdent resolution](https://hexens.io/research/aptos-hijack-bug)
+- [Aptos struct hijack bug incident resolution](https://hexens.io/research/aptos-hijack-bug)
 - [AFI incident resolution](https://x.com/afiprotocol_xyz/status/2072324266679259356)
 - [Stake DAO vsdCRV incident resolution](https://www.stakedao.org/blog/incident-disclosure-27-05-2026)
 - [Alephium incident resolution](https://x.com/alephium/status/2061839244373676284)
