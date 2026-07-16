@@ -2,6 +2,7 @@
 
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
+- [Ostium incident resolution](https://x.com/Ostium/status/2077628150054281700)
 - [Lazy Summer Protocol incident resolution](https://x.com/summerfinance_/status/2074522409869115468)
 - [Aptos struct hijack bug incident resolution](https://hexens.io/research/aptos-hijack-bug)
 - [AFI incident resolution](https://x.com/afiprotocol_xyz/status/2072324266679259356)
