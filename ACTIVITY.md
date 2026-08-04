@@ -2,6 +2,8 @@
 
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
+- [RISEx incident resolution](https://x.com/risextrade/status/2084350396609520105)
+- [BarnBridge old approvals incident resolution](https://x.com/onechesss/status/2084343415810970091)
 - [Across incident resolution](https://x.com/acrossprotocol/status/2078036118209982566)
 - [Cascade incident resolution](https://x.com/cascade_xyz/status/2077747846011306123)
 - [Ostium incident resolution](https://x.com/Ostium/status/2077628150054281700)
