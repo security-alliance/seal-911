@@ -58,7 +58,7 @@ For the sake of transparency, the current list of members is provided below.
 - Simon (Elliptic)
 - Chris (Elliptic)
 - Alex (Sui Foundation)
-- Lotem (StarkWare)
+- Lotem (Independent)
 - Vladimir (1inch)
 
 ## SEAL 911 Code of Conduct
