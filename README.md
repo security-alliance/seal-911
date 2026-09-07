@@ -54,7 +54,7 @@ For the sake of transparency, the current list of members is provided below.
 - Julia (zeroShadow)
 - Nick (zeroShadow)
 - tanuki_42 (Independent)
-- Oussama (Pump)
+- Oussama (Independent)
 - Simon (Elliptic)
 - Chris (Elliptic)
 - Alex (Sui Foundation)
