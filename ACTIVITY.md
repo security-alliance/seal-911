@@ -2,6 +2,8 @@
 
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
+- [Bitget incident resolution](https://x.com/GracyBitget/status/2103235655879074084)
+- [Blink incident resolution](https://www.blink.sv/blog/sept-19-attack-postmortem-and-bounty)
 - [RISEx incident resolution](https://x.com/risextrade/status/2084350396609520105)
 - [BarnBridge old approvals incident resolution](https://x.com/onechesss/status/2084343415810970091)
 - [Across incident resolution](https://x.com/acrossprotocol/status/2078036118209982566)
