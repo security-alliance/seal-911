@@ -4,6 +4,7 @@ This is a continually evolving, albeit incomplete, public record of incidents in
 
 - [Bitget incident resolution](https://x.com/GracyBitget/status/2103235655879074084)
 - [Blink incident resolution](https://www.blink.sv/blog/sept-19-attack-postmortem-and-bounty)
+- [COLDCARD white hat rescue](https://x.com/bax1337/status/2097715822600900839)
 - [RISEx incident resolution](https://x.com/risextrade/status/2084350396609520105)
 - [BarnBridge old approvals incident resolution](https://x.com/onechesss/status/2084343415810970091)
 - [Across incident resolution](https://x.com/acrossprotocol/status/2078036118209982566)
