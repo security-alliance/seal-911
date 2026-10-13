@@ -53,7 +53,7 @@ For the sake of transparency, the current list of members is provided below.
 - Zollua (Binance)
 - Julia (zeroShadow)
 - Nick (zeroShadow)
-- tanuki_42 (Independent)
+- tanuki_42 (Pangolin Intelligence)
 - Oussama (Independent)
 - Simon (Elliptic)
 - Chris (Elliptic)
